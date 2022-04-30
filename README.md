@@ -1,0 +1,1 @@
+Make sure "Access for less secure apps has been turned on" for your google account. Else that can cause SMTP Authentication problems. It can be turned on/off from google settings: https://www.google.com/settings/security/lesssecureapps
